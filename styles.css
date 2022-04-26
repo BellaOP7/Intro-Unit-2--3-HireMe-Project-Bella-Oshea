@@ -1,0 +1,36 @@
+h1 {
+    color: green;
+}
+
+img {
+    width: 100px;
+}
+
+h2 {
+    color: green;
+}
+h1 {font-family: 'Irish Grover', cursive;}
+h3 {
+    
+}
+
+p {
+    color: black;
+}
+
+.list {
+    color: black;
+}
+
+h3 {
+    color: black;font-family: 'Dancing Script', cursive;
+}
+
+.about {
+    background-color: green;
+}
+
+.hire {
+    background-color: black;
+}
+.about {font-family: cursive;}
